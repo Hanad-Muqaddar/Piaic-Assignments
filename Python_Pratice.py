@@ -72,7 +72,7 @@ for i in range(0,10):
     
 print(f"For loop time is {time.time() - initial2}")
 
-
+time.sleep(2)
 
 
 
