@@ -1,0 +1,9 @@
+key1,key2,value1,value2
+one,a,1,2
+one,b,NaN,4
+one,c,5,6
+one,NaN,7,8
+two,a,9,NaN
+two,b,NaN,12
+two,NaN,13,NaN
+two,d,15,16
